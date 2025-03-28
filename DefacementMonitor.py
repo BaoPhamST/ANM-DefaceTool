@@ -41,8 +41,8 @@ default_interval=10
 
 app.config['MAIL_SERVER'] = 'smtp.gmail.com'
 app.config['MAIL_PORT'] = 587
-app.config['MAIL_USERNAME'] = '2491107@hcmut.edu.vn'  # Use your actual Gmail address
-app.config['MAIL_PASSWORD'] = '23082024'
+app.config['MAIL_USERNAME'] = 'anh.trantnma2004@hcmut.edu.vn'  # Use your actual Gmail address
+app.config['MAIL_PASSWORD'] = 'dgsf xwfl pvlr ldaf''
 app.config['MAIL_USE_TLS'] = True
 app.config['MAIL_USE_SSL'] = False
 mail = Mail(app)
